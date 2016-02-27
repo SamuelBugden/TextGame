@@ -1,0 +1,42 @@
+Text Game
+
+Aim:
+(shadow of the colossus)
+start in great temple, with dead princess
+Must kill 3 Colossus to end charge the soulstone
+Use the soulstone in the soul forge (fight a final boss?)
+Take thesoul stone (now with princess soul)to princess
+inc hidden theme, you must die to save princess
+either : you dont save princess, and leave with lewt, or you die and princess lives.
+
+sub aims:
+1. Talk with Frith, sun god, ask for princess back (get task)
+2. find a weapon
+3. Find location of first colossus
+4. find item needed to pass obstacle, enter colossus lair
+5. kill colossus, charge stone (1)
+6. find next location + obstacle object
+7. kill second colossus with choice (lose weapon y/n) charge stone (2)
+8. Find new weapon if needed, -> 
+9. kill last colossus charge stone (3)
+10. Find soul forge, (puzzle/boss) Fuse the souls in stone with princess
+11.return to frith, make choice, die/save
+12. The end.
+
+
+
+
+
+ideas:
+-Monument stone 
+--can see from anywhere, give direction to this stone
+--Can climb the stone
+--Give directions to other places of note "in the ditance you see a house"
+
+-Locations list
+--random choice from list, including severale mandatory locations
+--placed in random squares
+--mandatory:Temple, colossus (1,2,3), weapon place (at least 2), Soul forge.
+--possible: Portals (a pair), Past visitor (dead?), notes on frith, 
+
+

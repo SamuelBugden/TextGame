@@ -1,0 +1,20 @@
+Generate Map
+-Pass location list?
+-create x by x grid (each square identifiable)
+-assign mandatory locations to random grid squares
+-assign random picks extras to random grid squares
+-Save starting temple location to member variable
+
+Generate Player
+-Name etc
+-pass map object to receive start location from member variable
+-
+
+Start Scene
+-Take player coords and access map, see if location exits
+--If yes, output description
+--else Output random 'Background' description.
+
+PLayer movement
+-north/east/south/west -> Change coords by one
+--If edge of map (coords = x ) give description of why cant move eg. cliff
